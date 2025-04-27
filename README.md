@@ -1,4 +1,4 @@
-![Screenshot 2025-04-25 224940](https://github.com/user-attachments/assets/79dd499b-6d58-4d7c-b88c-2187be417a3e)
+
 # EX-01-Datatypes-Operators
 ## AIM:
 Write a C program to read 3 characters one by one and print the characters in a reverse order.
